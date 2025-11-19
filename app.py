@@ -23,9 +23,9 @@ with st.sidebar:
     st.title("🧠 Student Depression Predictor")
     st.markdown("Predict the likelihood of depression in students.")
     st.markdown("---")
-    st.markdown("👨‍💻 Developed by: **Brajesh Ahirwar**")
-    st.markdown("🔗 GitHub: [Brajesh Ahirwar](https://github.com/brajesh2306)")
-    st.markdown("🔗 LinkedIn: [Profile](www.linkedin.com/in/brajesh-ahirwar-6269b728b)")
+    st.markdown("👨‍💻 Developed by: **Arun vk**")
+    st.markdown("🔗 GitHub: [Arun vk](https://github.com/ArunVijaykumarcsds)")
+    st.markdown("🔗 LinkedIn: [Profile](www.linkedin.com/in/arunvk2004/)")
     st.markdown("---")
     st.markdown("✨ **Have fun exploring AI!**")
 
@@ -146,3 +146,4 @@ if st.button("Predict"):
         except Exception as e:
 
             st.error(f"Error during prediction: {e}")
+
